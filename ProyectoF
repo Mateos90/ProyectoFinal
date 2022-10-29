@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>    
+    <head>
+        <link rel="stylesheet" href="../css/ProyectoFinalStyle.css">
+    </head> 
+<meta charset="utf-8"> 
+<body>
+        <main>      
+<header>
+</header>
+<section>
+<img src="../img/iconomaya.png">
+<nav>
+    <ul>
+        <li>ARTE</li>
+        <li>COLECCIONES</li>
+        <li>CONÓCENOS</li>
+    </ul>
+</nav>
+</section>
+<section>
+    <p>UNA EXPERIENCIA TOTALMENTE NUEVA EN EL ARTE</p>
+    
+</section>
+        </main>
+</body>
+</html>
+
+
+ul{
+    list-style: none;
+    width: 30%;
+    justify-content:space-around;
+    display:flex;
+    margin-right:auto;
+}
+header{
+    height: min-content;
+    background-repeat: no-repeat;
+}
+section{
+}
